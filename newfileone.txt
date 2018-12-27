@@ -3,3 +3,5 @@ The first commit to this file.
 First line to be committ
 
 Second/Third Commit.
+
+Newline added to test diff
