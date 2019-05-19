@@ -4,4 +4,6 @@ First line to be committ
 
 Second/Third Commit.
 
+Commit to make changes to test merge.
+
 Newline added to test diff
