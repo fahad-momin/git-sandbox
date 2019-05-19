@@ -1,7 +1,9 @@
 The first commit to this file.
 
-First line to be committ
+First line to be committ. will test Merge.
 
-Second/Third Commit.
+Second and Third to test Merge Commit.
 
 Newline added to test diff
+
+Adding file to test the Merge.
