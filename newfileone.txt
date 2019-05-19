@@ -2,7 +2,7 @@ The first commit to this file.
 
 First line to be committ. will test Merge.
 
-Second & Third 2 test Merge Commit.
+Second and& Third 2to test Merge Commit.
 
 Commit to make changes to test merge.
 
