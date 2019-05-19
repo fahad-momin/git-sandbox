@@ -4,6 +4,8 @@ First line to be committ. will test Merge.
 
 Second and& Third 2to test Merge Commit.
 
+Commit to make changes to test merge.
+
 Newline added to test diff
 
 Adding file to test the Merge.
