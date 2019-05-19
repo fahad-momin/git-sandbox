@@ -1,7 +1,2 @@
-The first commit to this file.
-
-First line to be committ
-
-Second/Third Commit.
-
-Newline added to test diff
+File 02 
+commit first : completely removed the existing contents.
