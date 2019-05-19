@@ -1,1 +1,2 @@
-The first commit to this file.
+The first commit to this new file 04.
+And this will be here for next few examples
